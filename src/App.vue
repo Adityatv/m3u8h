@@ -80,7 +80,7 @@
       <div class="setting-body">
         <div class="logo">
           <img src="./assets/img/logo.png" alt="">
-          <h2>ZY Player Web</h2>
+          <h2>FR Player Web</h2>
           <p>
             <a href="https://github.com/ymc-github/fr-player-web" target="_blank">Github</a>
             <a href="https://github.com/ymc-github/fr-player-web/issues" target="_blank">{{t('setting.issues')}}</a>
